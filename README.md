@@ -34,7 +34,7 @@ Successfully completed the NPTEL Online Certification in Management Information 
 - **Credits:** 4
 
 ### Certificate
-[View My NPTEL Certificate](./NPTEL%20-%20Management%20Information%20System.pdf)
+[View My NPTEL Certificate](./NPTEL.pdf)
 
 ### Skills & Learning
 - Management Information Systems
