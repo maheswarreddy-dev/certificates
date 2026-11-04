@@ -18,3 +18,29 @@ Successfully completed a 20-day training program in Python and Data Structures.
 Successfully completed Python Development Training.
 
 [View My Certificate](./Divith%20Techno%20Solutions.jpeg)
+
+# NPTEL Certification
+
+## Management Information System
+
+I have successfully completed the **NPTEL Online Certification** in Management Information System.
+
+### Certificate Details
+- **Course Name:** Management Information System
+- **Platform:** NPTEL
+- **Duration:** 12 Weeks
+- **Course Period:** July – October 2026
+- **Score:** 58%
+- **Recommended Credits:** 4
+
+### Certificate
+[View My NPTEL Certificate](NPTEL-Management-Information-System.pdf)
+
+### Skills & Learning
+- Management Information Systems
+- Information Management
+- Business Decision-Making
+
+### Connect With Me
+- **GitHub:** https://github.com/maheswarreddy-dev
+-
