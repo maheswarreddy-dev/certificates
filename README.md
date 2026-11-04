@@ -23,22 +23,27 @@ Successfully completed Python Development Training.
 
 ## Management Information System
 
-I have successfully completed the **NPTEL Online Certification** in Management Information System.
+Successfully completed the NPTEL Online Certification in Management Information System.
 
 ### Certificate Details
-- **Course Name:** Management Information System
+- **Course:** Management Information System
 - **Platform:** NPTEL
 - **Duration:** 12 Weeks
-- **Course Period:** July – October 2026
+- **Period:** July – October 2026
 - **Score:** 58%
-- **Recommended Credits:** 4
+- **Credits:** 4
 
 ### Certificate
-[View My NPTEL Certificate](./NPTEL-Management-Information-System.pdf)
+[View My NPTEL Certificate](./NPTEL%20-%20Management%20Information%20System.pdf)
 
 ### Skills & Learning
 - Management Information Systems
 - Information Management
+- Business Decision-Making
+
+### Connect With Me
+- **GitHub:** [My GitHub Profile](https://github.com/maheswarreddy-dev)
+-
 - Business Decision-Making
 
 ### Connect With Me
