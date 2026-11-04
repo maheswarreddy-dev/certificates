@@ -34,7 +34,7 @@ I have successfully completed the **NPTEL Online Certification** in Management I
 - **Recommended Credits:** 4
 
 ### Certificate
-[View My NPTEL Certificate](NPTEL-Management-Information-System.pdf)
+[View My NPTEL Certificate](./NPTEL-Management-Information-System.pdf)
 
 ### Skills & Learning
 - Management Information Systems
