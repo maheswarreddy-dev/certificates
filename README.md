@@ -21,17 +21,17 @@ Successfully completed Python Development Training.
 
 My Certifications
 
-1. NPTEL – Management Information System
+NPTEL - Management Information System
 
-Successfully completed the NPTEL Management Information System course from IIT Kharagpur.
+Successfully completed the NPTEL course from IIT Kharagpur.
 
 Course Details:
 
 - Platform: NPTEL
 - Institute: IIT Kharagpur
-- Duration: July – October 2026
+- Duration: July - October 2026
 - Score: 58%
 
-📄 View My Certificate
+View My Certificate
 
-"CLICK HERE – VIEW NPTEL CERTIFICATE" (https://github.com/maheswarreddy-dev/certificates/blob/main/NPTEL%20-%20Management%20Information%20System.pdf)
+"📄 VIEW MY NPTEL CERTIFICATE" (https://github.com/maheswarreddy-dev/certificates/blob/main/NPTEL%20-%20Management%20Information%20System.pdf)
