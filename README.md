@@ -19,19 +19,3 @@ Successfully completed Python Development Training.
 
 [View My Certificate](./Divith%20Techno%20Solutions.jpeg)
 
-My Certifications
-
-NPTEL - Management Information System
-
-Successfully completed the NPTEL course from IIT Kharagpur.
-
-Course Details:
-
-- Platform: NPTEL
-- Institute: IIT Kharagpur
-- Duration: July - October 2026
-- Score: 58%
-
-View My Certificate
-
-"📄 VIEW MY NPTEL CERTIFICATE" (https://github.com/maheswarreddy-dev/certificates/blob/main/NPTEL%20-%20Management%20Information%20System.pdf)
